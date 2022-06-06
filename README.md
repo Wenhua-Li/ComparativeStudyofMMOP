@@ -1,11 +1,9 @@
 # ComparativeStudyofMMOP
-**Paper: Multimodal Multi-objective Optimization: Comparative Study of the State-of-the-Art**
+**Paper:** Multimodal Multi-objective Optimization: Comparative Study of the State-of-the-Art
 
 This project collects the sources of the existing multimodal multi-objective evolutionary algorithms and the test suites.
 
-The source can be accessed after papaer acceptance.
-
-# Usage of ExperimentResult.mat
+## Usage of ExperimentResult.mat
 
 The average results of IGD, IGDX and 1/PSP are provided in this data file.
 For MATLAB, you can use the following command:
@@ -22,3 +20,5 @@ to get the result of the i-th MMF problem for the runid-th run by numalg-th algo
 ``` matlab
 alglabel={'Omni-optimizer','DN-NSGAII','MO\_Ring\_PSO\_SCD','MO\_PSO\_MM','DNEA','Tri-MOEA&TAR', 'DNEA-L','CPDEA','MP-MMEA','MMOEA/DC','MMEA-WI','HREA'};
 ```
+## Tips
+The running result is provided.
