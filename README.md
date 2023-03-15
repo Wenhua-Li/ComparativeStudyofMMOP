@@ -21,4 +21,4 @@ to get the result of the i-th MMF problem for the runid-th run by numalg-th algo
 alglabel={'Omni-optimizer','DN-NSGAII','MO\_Ring\_PSO\_SCD','MO\_PSO\_MM','DNEA','Tri-MOEA&TAR', 'DNEA-L','CPDEA','MP-MMEA','MMOEA/DC','MMEA-WI','HREA'};
 ```
 ## Tips
-The running result is provided.
+The running result is provided. Please contact me to access the source code. Email:liwenhua1030@aliyun.com
