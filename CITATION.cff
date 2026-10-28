@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite the associated paper as well as this repository.
+authors:
+  - family-names: "Li"
+    given-names: "Wenhua"
+  - family-names: "Zhang"
+    given-names: "Tao"
+  - family-names: "Wang"
+    given-names: "Rui"
+  - family-names: "Huang"
+    given-names: "Shengjun"
+  - family-names: "Liang"
+    given-names: "Jing"
+title: "ComparativeStudyofMMOP"
+version: 1.0.0
+date-released: "2026-10-28"
+repository-code: "https://github.com/Wenhua-Li/ComparativeStudyofMMOP"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Li"
+      given-names: "Wenhua"
+    - family-names: "Zhang"
+      given-names: "Tao"
+    - family-names: "Wang"
+      given-names: "Rui"
+    - family-names: "Huang"
+      given-names: "Shengjun"
+    - family-names: "Liang"
+      given-names: "Jing"
+  title: "Multimodal multi-objective optimization: Comparative study of the state-of-the-art"
+  journal: "Swarm and Evolutionary Computation"
+  volume: 77
+  pages: "101253"
+  year: 2023
+  doi: "10.1016/j.swevo.2023.101253"
